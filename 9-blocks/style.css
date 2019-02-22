@@ -1,0 +1,9 @@
+.container {
+    background-color: gray;
+    height: 600px;
+    width: 600px;
+    display: inline-block;
+}
+.header {
+    display: inline-block;
+}
