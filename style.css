@@ -1,5 +1,9 @@
 .container {
-    background-color: lightpink;
-    height: 300px;
-    width: 300px;
+    background-color: midnightblue;
+    height: 600px;
+    width: 600px;
+    display: inline-block;
+}
+.header {
+    display: inline-block;
 }
